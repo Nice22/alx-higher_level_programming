@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#Nice22
+# Nice22
 import hidden_4
 
 def discovr():
