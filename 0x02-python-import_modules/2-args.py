@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#Nice22
+# Nice22
 def print_arg(argv):
     n = len(argv) - 1
     if n == 0:
