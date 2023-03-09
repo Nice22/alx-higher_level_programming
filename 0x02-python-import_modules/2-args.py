@@ -1,17 +1,17 @@
 #!/usr/bin/python3
-# Nice22
+#Nice22
 def print_arg(argv):
-    a = len(argv) - 1
-    if a == 0:
-        print("{:d} argument.".format(a))
+    n = len(argv) - 1
+    if n == 0:
+        print("{:d} argument.".format(n))
         return
     else:
-        if a == 1:
-            print("{:d} argument:".format(a))
+        if n == 1:
+            print("{:d} argument:".format(n))
         else:
-            print("{:d} arguments:".format(a))
+            print("{:d} arguments:".format(n))
         i = 1
-        while i <= a:
+        while i <= n:
             print("{:d}: {:s}".format(i, argv[i]))
             i += 1
 
