@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-''' Nice22'''
+# Nice22
 def square_matrix_simple(matrix=[]):
     tmp = []
     for x in matrix:
