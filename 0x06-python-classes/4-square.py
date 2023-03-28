@@ -1,5 +1,4 @@
 #!/usr/bin/pythoni3
-# Nice22
 """Define a class Square."""
 
 
