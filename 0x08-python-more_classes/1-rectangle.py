@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# Nice22
 """Defines a Rectangle class."""
 
 
