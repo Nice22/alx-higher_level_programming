@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 # Nice22
-#!/usr/bin/python3
 """Defines an inherited class-checking function."""
 
 
