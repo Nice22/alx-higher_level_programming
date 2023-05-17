@@ -120,3 +120,5 @@ id  name
 8   Thriller
 $
 
+
+<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/3/bc2575fee3303b731031.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230517%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20230517T150956Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=c8f0cdd9093173c9331a1c0cd4b04d599f7182d4518c5518e0b4020ad46677ca" alt="" loading="lazy" style="">
